@@ -1,4 +1,4 @@
-__author__= "Dhruv Panchal"
+__author__ = "Dhruv Panchal"
 
 #Take input from user
 first_name = input("Enter first name : ")
