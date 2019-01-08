@@ -36,5 +36,5 @@ print ("Sort List : ", places)
 places.sort(reverse=True)
 print ("Reverse Sort List : ", places)
 
-#Get length of you list.
+#Get length of your list.
 print ("Length of the list is : ",len(places))
